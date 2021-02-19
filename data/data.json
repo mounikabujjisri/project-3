@@ -1,0 +1,32 @@
+
+{
+	"products":[
+       {
+       "name":"realme 5pro",
+       "image":"img/1.jpg",
+       "price":"11500",
+       "dprice":"11000"
+       },{
+       "name":"samsung M10s",
+       "image":"img/2.jpg",
+       "price":"10000",
+       "dprice":"8000"
+       },{
+       "name":"oplus nord",
+       "image":"img/3.jpg",
+       "price":"30000",
+       "dprice":"27000"
+       },{
+       "name":"opop A5",
+       "image":"img/4.jpg",
+       "price":"14000",
+       "dprice":"12000"
+       },{
+        "name":"redmi 8A",
+       "image":"img/5.jpg",
+       "price":"10000",
+       "dprice":"7500"
+       }
+	]
+}
+
